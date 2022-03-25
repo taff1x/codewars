@@ -14,6 +14,7 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 * [Who likes it?](./js/cw_02.js)
 * [List Filtering](./js/cw_03.js)
 * [Duplicate Encoder](./js/cw_04.js)
+* [Isogram](./js/cw_05.js)
 
 ## Python:
 
