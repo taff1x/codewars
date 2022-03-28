@@ -17,6 +17,7 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 * [Isogram](./js/cw_05.js)
 * [Find The Parity Outlier](./js/cw_06.js)
 * [Where my anagrams at?](./js/cw_07.js)
+* [Moving Zeros To The End?](./js/cw_08.js)
 
 ## Python:
 
