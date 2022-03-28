@@ -16,6 +16,7 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 * [Duplicate Encoder](./js/cw_04.js)
 * [Isogram](./js/cw_05.js)
 * [Find The Parity Outlier](./js/cw_06.js)
+* [Where my anagrams at?](./js/cw_07.js)
 
 ## Python:
 
