@@ -2,18 +2,11 @@
 // Convert string to camel case
 
 function toCamelCase(str) {
-    if (str.indexOf("_") >= 0) {
-      str = str.split("_");
-    } else if (str.indexOf("-") >= 0) {
-      str = str.split("-");
+  str = str.split(/_|-/);
+  for (let [index,elem] of str.entries()) {
+    if (index > 0) {
+      str[index] = elem[0].toUpperCase() + elem.slice(1);
     }
-    
-    if (str) {
-      for (let [index,elem] of str.entries()) {
-        if (index > 0) {
-          str[index] = elem[0].toUpperCase() + elem.slice(1);
-        }
-      }
-      return str.join("");
-    } else return str;
+  }
+  return str.join('');
 }

@@ -1,7 +1,12 @@
-// https://www.codewars.com/kata/523a86aa4230ebb5420001e1
-// Where my anagrams at?
+// https://www.codewars.com/kata/52597aa56021e91c93000cb0
+// Moving Zeros To The End
 
-function anagrams(word, words) {
-  const sort = (sortedWord) => sortedWord.split('').sort().join('');
-  return words.filter((checkedWord) => sort(checkedWord) == sort(word));
-  }
+function moveZeros(arr) {
+  let zeros = [];
+  return arr.filter(function (elem) {
+    if (elem===0) {
+      zeros.push(elem);
+    }
+    return elem !== 0;
+  }).concat(zeros);
+}
