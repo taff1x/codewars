@@ -18,6 +18,7 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 * [Find The Parity Outlier](./js/cw_06.js)
 * [Where my anagrams at?](./js/cw_07.js)
 * [Moving Zeros To The End](./js/cw_08.js)
+* [Pick peaks](./js/cw_09.js)
 
 ## Python:
 
