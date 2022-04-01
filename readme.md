@@ -22,4 +22,4 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 
 ## Python:
 
-TODO
+* [Descending Order](./py/cw_01.js)
