@@ -27,5 +27,6 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 * [Persistent Bugger.](./py/cw_03.py)
 * [Bit Counting](./py/cw_04.py)
 * [Simple Pig Latin](./py/cw_05.py)
+* [Human readable duration format](./py/cw_06.py)
 
 
