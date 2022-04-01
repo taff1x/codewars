@@ -23,3 +23,4 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 ## Python:
 
 * [Descending Order](./py/cw_01.py)
+* [Friend or Foe?](./py/cw_02.py)
