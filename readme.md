@@ -25,4 +25,5 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 * [Descending Order](./py/cw_01.py)
 * [Friend or Foe?](./py/cw_02.py)
 * [Persistent Bugger.](./py/cw_03.py)
+* [Bit Counting](./py/cw_04.py)
 
