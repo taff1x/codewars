@@ -30,3 +30,5 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 * [Simple Pig Latin](./py/cw_05.py)
 * [Human readable duration format](./py/cw_06.py)
 * [Battleship field validator](./py/cw_07.py)
+* [Snail sort](./py/cw_08.py)
+
