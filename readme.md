@@ -20,6 +20,7 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 * [Moving Zeros To The End](./js/cw_08.js)
 * [Pick peaks](./js/cw_09.js)
 * [The observed PIN](./js/cw_10.js)
+* [Common Denominators](./js/cw_11.js)
 
 ## Python:
 
