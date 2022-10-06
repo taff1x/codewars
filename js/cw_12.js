@@ -1,3 +1,6 @@
+// https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
+// Range Extraction
+
 function solution(list) {
     let memory;
     const reducedList = list.sort((a,b) => a-b).reduce(

@@ -22,6 +22,7 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 * [The observed PIN](./js/cw_10.js)
 * [Common Denominators](./js/cw_11.js)
 * [Range Extraction](./js/cw_12.js)
+* [Codewars style ranking system](./js/cw_13.js)
 
 ## Python:
 
