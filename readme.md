@@ -21,6 +21,7 @@ This is my first `GitHub` public repository where I share my `JS` and `Python` s
 * [Pick peaks](./js/cw_09.js)
 * [The observed PIN](./js/cw_10.js)
 * [Common Denominators](./js/cw_11.js)
+* [Range Extraction](./js/cw_12.js)
 
 ## Python:
 
